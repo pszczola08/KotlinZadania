@@ -2,11 +2,11 @@ package com.example.zadanie3
 
 object Quotes {
     var quotes = mutableListOf<String>(
-        "The only way to do great work is to love what you do. - Steve Jobs",
-        "In the middle of every difficulty lies opportunity. - Albert Einstein",
-        "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
-        "It does not matter how slowly you go as long as you do not stop. - Confucius",
-        "Believe you can and you're halfway there. - Theodore Roosevelt"
+        "The only way to do great work is to code. - Steve Jobs",
+        "In the middle of every program lies difficulty. - Albert Einstein",
+        "Linux is not good, windows is not bad: It is the OS to continue. - Winston Churchill",
+        "It does not matter how slowly you code as long as you do not stop using ChatGPT. - Confucius",
+        "Believe you can code and you're halfway there. - Theodore Roosevelt"
     )
 
     fun draw() {
